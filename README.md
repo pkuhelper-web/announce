@@ -1,6 +1,11 @@
 # PKU Helper 团队公告栏
 该GitHub Repository为PKU Helper开发团队发布紧急运营公告的渠道。感谢同学们对于PKU Helper的支持！
 
+## 2020/11/02
+https://pkuhelper-web.github.io/announce_v3.html
+
+这是最后一次公告。
+
 ## 2020/10/16 11:25
 登录接口开放，大家别挤
 
